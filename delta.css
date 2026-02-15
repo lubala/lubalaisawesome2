@@ -1,15 +1,15 @@
-#gameplay{
-  width:"40";
-}
-
 #main-container {
   display: flex;
-  align-items: flex-start; 
-  gap: 50 px; 
+  align-items: flex-start;
+  gap: 40px;
 }
 
-#left{
-  width:"60";
+#left {
+  width: 60%;
+}
+
+#gameplay {
+  width: 40%;
 }
 
 div.container {
